@@ -1,0 +1,9 @@
+D:\Digital Innovation One\Bootcamps\Decola Tech Avanade\ExemploApiCatalogo\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.csproj.AssemblyReference.cache
+D:\Digital Innovation One\Bootcamps\Decola Tech Avanade\ExemploApiCatalogo\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digital Innovation One\Bootcamps\Decola Tech Avanade\ExemploApiCatalogo\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.AssemblyInfoInputs.cache
+D:\Digital Innovation One\Bootcamps\Decola Tech Avanade\ExemploApiCatalogo\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.AssemblyInfo.cs
+D:\Digital Innovation One\Bootcamps\Decola Tech Avanade\ExemploApiCatalogo\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.csproj.CoreCompileInputs.cache
+D:\Digital Innovation One\Bootcamps\Decola Tech Avanade\ExemploApiCatalogo\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.MvcApplicationPartsAssemblyInfo.cs
+D:\Digital Innovation One\Bootcamps\Decola Tech Avanade\ExemploApiCatalogo\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.MvcApplicationPartsAssemblyInfo.cache
+D:\Digital Innovation One\Bootcamps\Decola Tech Avanade\ExemploApiCatalogo\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.RazorAssemblyInfo.cache
+D:\Digital Innovation One\Bootcamps\Decola Tech Avanade\ExemploApiCatalogo\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.RazorAssemblyInfo.cs
